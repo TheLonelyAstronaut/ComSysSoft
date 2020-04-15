@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programming\ComSysSoft\Lab4\Lab2\Source.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\ComSysSoft\Lab4\Lab2\Source.cpp(119,24): warning C4018: <=: несоответствие типов со знаком и без знака
+  Lab2.vcxproj -> D:\Programming\ComSysSoft\Lab4\Debug\Lab2.exe

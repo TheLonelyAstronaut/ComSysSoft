@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Programming\C++\SPECM\Lab2\Lab2\Source.cpp(77,23): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Programming\C++\SPECM\Lab2\Lab2\Source.cpp(118,23): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Programming\C++\SPECM\Lab2\Lab2\Source.cpp(165,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab2.vcxproj -> D:\Programming\C++\SPECM\Lab2\Debug\Lab2.exe
