@@ -1,0 +1,3 @@
+gcc -fPIC -c AsyncOperations.c -o AsyncOperations.o
+gcc -shared -o AsyncOperations.so AsyncOperations.o
+gcc source.c -o lab5 -pthread -ldl
