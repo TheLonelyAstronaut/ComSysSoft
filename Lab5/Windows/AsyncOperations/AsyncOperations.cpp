@@ -44,6 +44,7 @@ extern "C" {
 		WaitForSingleObject(data->overlapped.hEvent, INFINITE);
 
 		writeResult = GetOverlappedResult(data->writeFileDescriptor, &data->overlapped, &NumberOfWriteBytes, TRUE);
+
 		if (writeResult) {
 			data->outPosition = data->outPosition + NumberOfWriteBytes;
 			data->byteNumber = sizeof(data->buffer);
