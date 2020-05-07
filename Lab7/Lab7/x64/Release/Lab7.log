@@ -1,0 +1,9 @@
+﻿  FileSystem.cpp
+D:\Programming\ComSysSoft\Lab7\Lab7\FileSystem.cpp(529,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\Programming\ComSysSoft\Lab7\Lab7\FileSystem.cpp(455): warning C4715: FileSystem::keyHandler: значение возвращается не при всех путях выполнения
+  All 324 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab7.vcxproj -> D:\Programming\ComSysSoft\Lab7\x64\Release\Lab7.exe
